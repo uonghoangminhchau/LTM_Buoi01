@@ -1,0 +1,4 @@
+D:\BTMang-Buoi1\BT02\BT02\bin\Debug\BT02.exe
+D:\BTMang-Buoi1\BT02\BT02\bin\Debug\BT02.pdb
+D:\BTMang-Buoi1\BT02\BT02\obj\x86\Debug\BT02.exe
+D:\BTMang-Buoi1\BT02\BT02\obj\x86\Debug\BT02.pdb
